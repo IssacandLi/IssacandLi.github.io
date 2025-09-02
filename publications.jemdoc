@@ -1,4 +1,20 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
-- Paper A, Venue 2025. [pdf]
-- Paper B, Venue 2024. [pdf]
+
+. [https://openreview.net/forum?id=jXJtBZvBgx&noteId=jXJtBZvBgx LatentWeave: Training-Free Long Video Generation with Complex Human Interactions]. \n
+*Peihong Li*, Wenhe Liu, Yan Yan. \n
+. [https://openreview.net/forum?id=lfVkKdXJ6O Robust Uncertainty-aware Knowledge Aggregation for Long-Tailed Recognition]. \n
+Xinyu Chen\*, *Peihong Li*\*, Ziquan Liu, Yingying Zhu, Hu Zhang, Yi Xu, Yan Yan. \n
+. [https://openreview.net/forum?id=SjITu3qAhH Maximizing Conformal Risk Margin for Robust Learning under Posterior Shift]. \n
+Yuanjie Shi\*, *Peihong Li*\*, Jana Doppa, Yan Yan. \n
+. [https://openreview.net/forum?id=cP2FAvofQf Valid and Efficient Uncertainty Quantification for Federated Joint Shift]. \n
+Yuanjie Shi\*, *Peihong Li*\*, Xuanyu Cao, Yan Yan. \n
+. [https://ieeexplore.ieee.org/document/9839380 An Industrial Process Monitoring Method Based on Entropy Projection Transformation Analysis]. \n
+Yinghua Yang; Qingyan Kong; Zhipeng Chao; *Peihong Li*; Xiaozhi Liu. \n
+. [https://www.mdpi.com/1424-8220/21/12/4217 Remaining Useful Life Prognostics of Bearings Based on a Novel Spatial Graph-Temporal Convolution Network]. \n
+*Peihong Li*, Xiaozhi Liu, Yinghua Yang. \n
+. [https://ieeexplore.ieee.org/document/9601882 Remaining Useful Life Prognostics Based on Deep Combined Temporal Bidirectional Convolutional Network]. \n
+Xiaozhi Liu, *Peihong Li*, Yinghua Yang
+
+
+
