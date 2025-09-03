@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{seminar.html}
+= Seminars@WSU
+
+Tentative Seminars:
+
+Time: 14:00 PST, Every Wednesday
+
+Location: Meeting Room@EME26 in Building EME
+
+Previous semaster
+[https://drive.google.com/drive/folders/1mZuJjuWimjgg7TyXKcfrNGHebcu7MjwW/ Slides address]
+
+2025 fall:
+[https://drive.google.com/drive/folders/1mDhJ3VMgRsWEyQD_fkAEZvsVUenUwWSk Slides address]
+~~~
+{}{table}{Seminar Schedule}
+No  | Date         |   Title/Topic  |  Speaker  ||
+1   | 3 Sep 2025  | Prune ’n Predict: Optimizing LLM Decision-making with Conformal Prediction  | Yuanjie Shi  ||
+   |   |    |    ||
+   |   |    |    ||
+   |   |    |    ||
+   |   |    |    ||
+   |   |    |    ||
+
+~~~
