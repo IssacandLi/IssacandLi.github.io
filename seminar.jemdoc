@@ -17,7 +17,7 @@ Previous semaster
 No  | Date         |   Title/Topic  |  Speaker  ||
 1   | 3 Sep 2025  | Prune ’n Predict: Optimizing LLM Decision-making with Conformal Prediction  | Yuanjie Shi  ||
 2   | 17 Sep 2025  | Scalable Diffusion Models with Transformers | Zijian Zhang  ||
-3   | 24 Sep 2025  |    | Xuesong Jia   ||
+3   | 24 Sep 2025  |  Conformal Risk Minimization with Variance Reduction   | Xuesong Jia   ||
 4   | 30 Sep 2025  | DeCLIP: Decoupled Learning for Open-Vocabulary Dense prediction
   | Xinyu Chen   ||
 5   | 15 Oct 2025 |  DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformerfor Tuning-Free Multi-Prompt Longer Video Generation | Peihong Li   ||
