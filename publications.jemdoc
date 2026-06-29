@@ -1,17 +1,17 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-. [https://openreview.net/forum?id=PjKpx6VCov#discussion Valid and Efficient Uncertainty Quantification for Federated Joint Shift]. \n
-Yuanjie Shi, Peihong Li, Xuanyu Cao, Yan Yan. \n
-. [https://openreview.net/forum?id=3wGVIAhxty Conformal Margin Risk Minimization: An Envelope Framework for Robust Learning under Label Noise]. \n
-*Yuanjie Shi*, *Peihong Li*, Zijian Zhang, Jana Doppa, Yan Yan. \n
-. [https://openreview.net/forum?id=Vv3kABv2Sy&noteId=Vv3kABv2Sy Thesis Proposal: Uncertainty as Adaptive Control: From Selection to Curriculum via Conformal Calibration]. \n
-Peihong Li, Yan Yan \n
-. [https://ieeexplore.ieee.org/document/9839380 An Industrial Process Monitoring Method Based on Entropy Projection Transformation Analysis]. \n
+. [https://openreview.net/forum?id=PjKpx6VCov Valid and Efficient Uncertainty Quantification for Federated Joint Shift (UAI2026)]. \n
+Yuanjie Shi, *Peihong Li*, Xuanyu Cao, Yan Yan. \n
+. [https://openreview.net/forum?id=3wGVIAhxty Conformal Margin Risk Minimization: An Envelope Framework for Robust Learning under Label Noise (AISTATS 2026)]. \n
+Yuanjie Shi, *Peihong Li*, Zijian Zhang, Jana Doppa, Yan Yan. \n
+. [https://openreview.net/forum?id=Vv3kABv2Sy&noteId=Vv3kABv2Sy Thesis Proposal: Uncertainty as Adaptive Control: From Selection to Curriculum via Conformal Calibration (ACL-SRW 2026)]. \n
+*Peihong Li*, Yan Yan \n
+. [https://ieeexplore.ieee.org/document/9839380 An Industrial Process Monitoring Method Based on Entropy Projection Transformation Analysis (IEEE Transactions on Instrumentation and Measurement 2022)]. \n
 Yinghua Yang; Qingyan Kong; Zhipeng Chao; *Peihong Li*; Xiaozhi Liu. \n
-. [https://www.mdpi.com/1424-8220/21/12/4217 Remaining Useful Life Prognostics of Bearings Based on a Novel Spatial Graph-Temporal Convolution Network]. \n
+. [https://www.mdpi.com/1424-8220/21/12/4217 Remaining Useful Life Prognostics of Bearings Based on a Novel Spatial Graph-Temporal Convolution Network (Sensors 2021)]. \n
 *Peihong Li*, Xiaozhi Liu, Yinghua Yang. \n
-. [https://ieeexplore.ieee.org/document/9601882 Remaining Useful Life Prognostics Based on Deep Combined Temporal Bidirectional Convolutional Network]. \n
+. [https://ieeexplore.ieee.org/document/9601882 Remaining Useful Life Prognostics Based on Deep Combined Temporal Bidirectional Convolutional Network (CCDC 2021)]. \n
 Xiaozhi Liu, *Peihong Li*, Yinghua Yang
 
 
